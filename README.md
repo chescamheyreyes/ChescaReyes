@@ -1,4 +1,4 @@
-### Hi, I'm Chesca!
+# Hi, I'm Chesca!
 
 # 💫 About Me:
 📚 I'm a first year BSIT student<br>👩🏻‍💻 Currently learning Python, HTML, CSS, and Java<br>🌱 Still learning how to code
